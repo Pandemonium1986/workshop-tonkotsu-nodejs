@@ -16,7 +16,7 @@ on:
   pull_request:
 
 env:
-  AZURE_WEBAPP_NAME: tonkotsu-staging # set this to your application's name
+  AZURE_WEBAPP_NAME: 'team2-tonkotsu' # set this to your application's name
   AZURE_WEBAPP_PACKAGE_PATH: '.'      # set this to the path to your web app project, defaults to the repository root
   NODE_VERSION: '12.x'                # set this to the node version to use
 
