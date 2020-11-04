@@ -1,4 +1,4 @@
-## Welcome Everyone !!
+## Welcome
 
 This repository contains the base project part of our on-site GitHub Verified Partner workshop program. It is meant to be used for in-classroom training under the supervision of GitHub coaches.
 
@@ -18,12 +18,12 @@ There are some built-in unit tests to ensure that everything can be verified.
 
 ### Instructions
 
-Please fork this repository and ensure you have a local working copy. You will need a working NodeJS environment. Get the latest stable version from https://nodejs.org/en/download/ or via your OS package manager (e.g. `brew` on Mac or `chocolatey` on Windows). 
+Please fork this repository and ensure you have a local working copy. You will need a working NodeJS environment. Get the latest stable version from https://nodejs.org/en/download/ or via your OS package manager (e.g. `brew` on Mac or `chocolatey` on Windows).
 
 Setup:
 
 ```
-npm install 
+npm install v2
 ```
 
 Tests:
